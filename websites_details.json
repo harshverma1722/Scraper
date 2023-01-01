@@ -1,0 +1,102 @@
+[
+   {
+      "name": "Samsung Electronics",
+      "revenue": "$244.2B",
+      "industry": "Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+   },
+   {
+      "name": "Microsoft",
+      "revenue": "$184.9B",
+      "industry": "IT, Internet, Software & Services"
+   },
+   {
+      "name": "IBM",
+      "revenue": "$67.3B",
+      "industry": "IT, Internet, Software & Services"
+   },
+   {
+      "name": "Alphabet",
+      "revenue": "$257.5B",
+      "industry": "IT, Internet, Software & Services"
+   },
+   {
+      "name": "Apple",
+      "revenue": "$378.7B",
+      "industry": "Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+   },
+   {
+      "name": "Delta Air Lines",
+      "revenue": "$35.1B",
+      "industry": "Transportation and Logistics"
+   },
+   {
+      "name": "Costco Wholesale",
+      "revenue": "$210.2B",
+      "industry": "Retail and Wholesale"
+   },
+   {
+      "name": "Adobe",
+      "revenue": "$16.1B",
+      "industry": "IT, Internet, Software & Services"
+   },
+   {
+      "name": "Southwest Airlines",
+      "revenue": "$15.8B",
+      "industry": "Transportation and Logistics"
+   },
+   {
+      "name": "Dell Technologies",
+      "revenue": "$106.8B",
+      "industry": "Semiconductors, Electronics, Electrical Engineering, Technology Hardware & Equipment"
+   },
+   {
+      "name": "Lockheed Martin",
+      "revenue": "$65.8B",
+      "industry": "Aerospace & Defense"
+   },
+   {
+      "name": "Cisco Systems",
+      "revenue": "$51.5B",
+      "industry": "IT, Internet, Software & Services"
+   },
+   {
+      "name": "BMW Group",
+      "revenue": "$131.5B",
+      "industry": "Consumer Durables"
+   },
+   {
+      "name": "Amazon",
+      "revenue": "$469.8B",
+      "industry": "Retail and Wholesale"
+   },
+   {
+      "name": "Decathlon",
+      "revenue": "$469.8B",
+      "industry": "Retail and Wholesale"
+   },
+   {
+      "name": "Adidas",
+      "revenue": "$25.1B",
+      "industry": "Clothing, Shoes, Sports Equipment"
+   },
+   {
+      "name": "AIRBUS",
+      "revenue": "$61.6B",
+      "industry": "Engineering, Manufacturing"
+   },
+   {
+      "name": "Ferrari",
+      "revenue": "$5B",
+      "industry": "Consumer Durables"
+   },
+   {
+      "name": "Fraunhofer Society",
+      "revenue": "$5B",
+      "industry": "Healthcare & Social"
+   },
+   {
+      "name": "Reliance Industries",
+      "revenue": "$86.9B",
+      "industry": "Oil & Gas Operations"
+   }
+]
